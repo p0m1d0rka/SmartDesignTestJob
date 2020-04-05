@@ -1,0 +1,4 @@
+aiohttp==3.6.2
+uMongo==3.0.0b1
+Motor==2.1.0
+aiojobs=0.2.2
