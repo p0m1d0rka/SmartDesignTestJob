@@ -1,7 +1,7 @@
 from aiohttp import web
 
 
-class Healthcheck:
+class HealthcheckController:
 
     def __init__(self):
         pass
